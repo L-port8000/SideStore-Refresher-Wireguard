@@ -1,5 +1,7 @@
 # SideStore-Refresher-Shortcut (Wireguard)
 
+![icon](https://raw.githubusercontent.com/L-port8000/SideStore-Refresher-Wireguard-/refs/heads/main/icon.png)
+
 SideStore Automation Refresh all Apps.
 
 - Moving on "Shortcut"
