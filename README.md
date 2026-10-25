@@ -12,3 +12,6 @@ SideStore Automation Refresh all Apps.
 - Wireguardを利用したショートカットです。(LocalDevVPNを使った方法ではありません。)
 - Please try using [icon.png](https://raw.githubusercontent.com/L-port8000/SideStore-Refresher-Wireguard-/refs/heads/main/icon.png)
 - 是非[icon.png](https://raw.githubusercontent.com/L-port8000/SideStore-Refresher-Wireguard-/refs/heads/main/icon.png)を使ってください。
+
+- Install
+![install QR](https://raw.githubusercontent.com/L-port8000/SideStore-Refresher-Wireguard/refs/heads/main/QR.png)
